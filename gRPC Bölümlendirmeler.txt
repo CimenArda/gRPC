@@ -1,0 +1,33 @@
+Bölüm 1 
+- gRPC Nedir ? Syf 1
+- RPC Nedir ? Syf 1
+- Http1 İle Http2 Farkları Nelerdir? Syf 2
+- Bazı Bilgiler Syf 3 
+- Neden Grpc Kullanmalıyız ? Syf 4
+- gRPC RestFull'u Çöpe mi Atacak? Syf 4
+- gRPC Dil Bağımsız Syf 5
+- gRPC'nin Avantajları Nelerdir? Syf 5
+- Protocol Buffers(Protobuf) Nedir ? Syf 6
+- gRPC ve Restfull Arasındaki Farklar Syf 7 - Syf 8
+- gRPC Konseptleri ve Client/Server Arasındaki İletişim Tipleri Nelerdir?
+  - Unary Yöntemiyle Client ve Server İletişimi Syf 9
+  - Server Streaming Yöntemiyle Client ve Server İletişimi Syf 10
+  - Client Streaming Yöntemiyle Client ve Server İletişimi Syf 10
+  - Bi-directional Streaming Yöntemiyle Client ve Server İletişimi Syf 11
+- gRPC Yaşam Döngüsü(Lifecycle) Syf 11
+
+Bölüm 2
+- gRPC Server Projesi Oluşturma ve İnceleme Syf 12
+- proto Dosyası İnceleme Syf 13-Syf 14
+- Servis İncelemesi Syf 15
+- Client Projesinin Oluşturulması ve Temel Konfigürasyonlar Syf 16
+-- Pratikler 
+ - Client'tan Request'te Bulunma ve Response'u Alma Syf 17- Syf 18
+ - Unary RPC Türü İle Client - Server İletişimini Sağlamak Syf 19 - 
+ Syf 20 -Syf 21 
+ - Server Streaming RPC Türü İle Client - Server İletişimini Sağlamak 
+ Syf 22- Syf 23 
+ - Client  Streaming RPC Türü İle Client - Server İletişimini Sağlamak
+  Syf 24 - Syf 25 
+ - Bi-directional Streaming RPC Türü İle Client - Server İletişimini    Sağlamak Syf 26 - Syf 27 
+
